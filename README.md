@@ -1,6 +1,6 @@
 # Robotik-Projekt-WiSe2020
 **Studierenden:** Chiara Teresa Gruß, Robin Scheel, Jan-Luca Regenhardt  
-**Gruppe:** 4
+**Gruppe:** 4  
 **Modul:** Robotik und Embedded Systems (MA)
 
 Das Projekt Nr.3 hat zum Ziel, den mobilen Roboter TurtleBot3 der Firma ROBOTIS in der Simulationsumgebung Gazebo sequentiell Wegpunkte abfahren zu lassen. Diese Wegpunkte werden aus einer Textdatei eingelesen und abgefahren. An jedem Wegpunkt angekommen, führt der Roboter eine vorher definierte Aktion aus.
