@@ -23,3 +23,31 @@ Dieses Repository beinhaltet alle notwendigen Dateien, um das Projekt nachvollzi
 | Gabaeudemodell/Schrank_groß3.asm | Schrankzusammenbau 3-Fach |
 | Gabaeudemodell/Schrank_groß7.asm | Schrankzusammenbau 7-Fach |
 | Gabaeudemodell/Tisch.par | Tischmodell |
+
+## Aufteilung der Arbeit
+**Das Programm entstand zu gleichen Teilen in Gruppenarbeit.**
+| *Kapitel*/Abschnitt | BearbeiterIn |
+|-------------------|--------------|
+| **Einleitung** | Ch.Gruß |
+| Aufbau der Arbeit | Ch.Gruß |
+| **Technische Grundlagen** | Ch.Gruß |
+| Robot Operating System | R.Scheel |
+| TurtleBot3 | Ch.Gruß
+| Simulationsumgebung Gazebo | J.Regenhardt |
+| Modellbildung | J.Regenhardt |
+| Visualisierung RViz | J.Regenhardt |
+| Mapping | J.Regenhardt |
+| Global- und Local-Planner | Ch.Gruß |
+| Pfadplanung mit Roadmap | Ch.Gruß |
+| Pfadplanung mit Zellzerlegung | Ch.Gruß |
+| Pfadplanung mit Potentialfeld | Ch.Gruß |
+| Koordinatensystem und Wegpunkt | Ch.Gruß |
+| Topic und Nodes im Robot State Maschine | R.Scheel |
+| **Programmaufbau** | R.Scheel |
+| Initialisierung | R.Scheel |
+| Erläuterung der Funktionen | R.Scheel |
+| Wegpunkte einlesen | R.Scheel |
+| Wegpunkte publishen | R.Scheel |
+| Wegpunktstatus | R.Scheel |
+| Aktion am Wegpunkt | R.Scheel |
+| **Fazit** | R.Scheel |
