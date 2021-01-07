@@ -1,0 +1,6 @@
+image: /home/jan/Fak_I_Map2.pgm
+resolution: 0.018450
+origin: [-15.682500, -27.121500, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
